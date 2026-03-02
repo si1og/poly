@@ -1,7 +1,7 @@
 
 ## «Poly» - my university mono-repository
 
-*This is repository with *(not all)* my university labs, courses and courseworks.*
+*This is repository with **(not all)** my university labs, courses and courseworks.*
 
 ### Peter the Great St. Petersburg Polytechnic University
 **Program:** Mathematics and Computer Sciences
