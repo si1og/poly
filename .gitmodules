@@ -1,0 +1,39 @@
+[submodule "sem2/mcs-cpp-coursework-2nd-sem"]
+	path = sem2/mcs-cpp-coursework-2nd-sem
+	url = https://github.com/si1og/-----2-.git
+[submodule "sem2/mcs-cpp-labs-2nd-sem"]
+	path = sem2/mcs-cpp-labs-2nd-sem
+	url = https://github.com/si1og/SpbPU_labs_3rd_term.git
+[submodule "sem3/arsens-labs/mcs-sem3-dismath-lab2"]
+	path = sem3/arsens-labs/mcs-sem3-dismath-lab2
+	url = https://github.com/dzh-a-v/mcs-sem3-dismath-lab2.git
+[submodule "sem3/cvm"]
+	path = sem3/cvm
+	url = https://github.com/si1og/mcs-arch-cvm-3sem.git
+[submodule "sem3/dismath"]
+	path = sem3/dismath
+	url = https://github.com/si1og/mcs-dismath-sem3.git
+[submodule "sem3/qt-labs-sem3"]
+	path = sem3/qt-labs-sem3
+	url = https://github.com/si1og/mcs-qt-labs-sem3.git
+[submodule "sem3/sem3-oop-labs"]
+	path = sem3/sem3-oop-labs
+	url = https://github.com/lurtced/mcs-sem3-oop-labs.git
+[submodule "sem3/tau"]
+	path = sem3/tau
+	url = https://github.com/si1og/mcs-tau-sem3.git
+[submodule "sem3/zed-cpp-debug-conf"]
+	path = sem3/zed-cpp-debug-conf
+	url = https://github.com/si1og/mcs-zed-cpp-debug-conf.git
+[submodule "sem4/cpmath"]
+	path = sem4/cpmath
+	url = https://github.com/si1og/mcs-sem4-compmath.git
+[submodule "sem4/databases"]
+	path = sem4/databases
+	url = https://github.com/si1og/mcs-databases-sem4.git
+[submodule "sem4/func-programming"]
+	path = sem4/func-programming
+	url = https://github.com/si1og/mcs-func-programming-sem4.git
+[submodule "sem4/miccontrol/labs"]
+	path = sem4/miccontrol/labs
+	url = https://github.com/si1og/mcs-microcontrollers-labs-sem4.git
