@@ -1,0 +1,21 @@
+\usepackage{graphicx}
+\usepackage{float}
+\newcommand{\screenshot}[2]{
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.9\textwidth]{img/#1}
+        \caption{#2}
+        \label{fig:#1}
+    \end{figure}
+}
+
+
+% Define highlight colors
+\definecolor{cyan}{RGB}{0,255,255}
+\definecolor{yellow}{RGB}{255,255,0}
+\definecolor{lime}{RGB}{0,255,0}
+
+% Custom highlighting commands
+\newcommand{\hlcyan}[1]{\sethlcolor{cyan}\hl{#1}}
+\newcommand{\hlyellow}[1]{\sethlcolor{yellow}\hl{#1}}
+\newcommand{\hllime}[1]{\sethlcolor{lime}\hl{#1}}
